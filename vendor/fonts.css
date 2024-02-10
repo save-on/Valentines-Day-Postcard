@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Alfa Slab One";
+  font-size: normal;
+  src: url("./fonts/AlfaSlabOne-Regular.ttf");
+}
+@font-face {
+  font-family: "Lobster Two";
+  font-size: normal;
+  src: url("./fonts/LobsterTwo-Regular.ttf");
+}
+@font-face {
+  font-family: "Lobster Two";
+  font-weight: bold;
+  src: url("./fonts/LobsterTwo-Bold.ttf");
+}
+@font-face {
+  font-family: "Lobster Two";
+  font-weight: bold;
+  font-style: italic;
+  src: url("./fonts/LobsterTwo-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "Lobster Two";
+  font-size: normal;
+  font-style: italic;
+  src: url("./fonts/LobsterTwo-Italic.ttf");
+}
